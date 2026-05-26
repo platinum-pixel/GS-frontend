@@ -22,7 +22,4 @@ View your app in AI Studio: https://ai.studio/apps/d74c6d4d-e6f0-4bd3-8347-dfefe
 
 
 
-   git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/platinum-pixel/GS-frontend.git
-git push -u origin main
+ https://discord.com/api/webhooks/15088177907719250440/BVlbXa7Lm-Kf0aJ1F53YrwwLAPkMYwOrdf2Gtai14c8nu4l4obvw0tx5rg968DnB0P98
