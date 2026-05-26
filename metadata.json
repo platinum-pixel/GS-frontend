@@ -1,0 +1,6 @@
+{
+  "name": "Global Sources Platinum Upgrade",
+  "description": "A sign in page for Global Sources Platinum Membership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
