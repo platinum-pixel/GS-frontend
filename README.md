@@ -18,3 +18,11 @@ View your app in AI Studio: https://ai.studio/apps/d74c6d4d-e6f0-4bd3-8347-dfefe
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+
+
+   git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/platinum-pixel/GS-frontend.git
+git push -u origin main
